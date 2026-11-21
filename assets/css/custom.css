@@ -1,0 +1,9 @@
+.navbar-brand{
+    color: #b4540d;
+    font-weight: 900;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #8c430d;
+}
+ /*ctrl+shift+r --- to hard refresh*/
